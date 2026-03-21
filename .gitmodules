@@ -1,0 +1,3 @@
+[submodule "spring-7-webapp"]
+	path = spring-7-webapp
+	url = git@github.com:shabansamani/spring-7-webapp.git
